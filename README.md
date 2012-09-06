@@ -6,6 +6,7 @@ You can download the library with the download button.
 Dependencies:
 
 * jQuery
+* jFeed - Only required if fetchFeed support is needed.
 
 Why jQuery?
 -----------
